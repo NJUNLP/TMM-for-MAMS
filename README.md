@@ -8,15 +8,15 @@
 ## Usage
 Download the pretrained RoBERTa model ([link](https://pan.baidu.com/s/1i-5qCJ57Cx46NysQdiXUWA), password:`2fv2`) and unzip it into the folder `pretrained`.
 
-The MAMS data is preprocessed by the script `preprocess.py`. The original and preprocessed versions of data are provided with the code in the folder `data`. 
+The MAMS data is preprocessed by the script `preprocess.py`. The original and preprocessed versions of the data are provided in the folder `data`. 
 
 ### For the ATSA subtask
-run the command `python main_ATSA.py` to train and test the ATSA model.
+Run the command `python main_ATSA.py` to train and test the ATSA model.
 
 You can change training settings in the file `configs.py`.
 
 ### For the ACSA subtask
-run the command `python main_ACSA.py` to train and test the ACSA model.
+Run the command `python main_ACSA.py` to train and test the ACSA model.
 
 You can change training settings in the file `configs.py`.
 

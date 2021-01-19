@@ -1,1 +1,1 @@
-Unzip the pretrained model into this folder.
+Please download and unzip the pretrained model into this folder.
